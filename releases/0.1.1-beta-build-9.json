@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "product": "Befriend",
+  "version": "0.1.1",
+  "channel": "beta",
+  "build": 9,
+  "releasedAt": "2026-09-21T13:49:26.000Z",
+  "headline": {
+    "en": "With the Beta 9 update, Befriend is now free.",
+    "ko": "베타 9 업데이트와 함께, Befriend는 무료화 되었습니다.",
+    "ja": "Beta 9アップデートに伴い、Befriendは無料になりました。",
+    "zh-Hans": "随着 Beta 9 更新，Befriend 现已免费。",
+    "zh-Hant": "隨著 Beta 9 更新，Befriend 現已免費。"
+  },
+  "headlineApproved": true,
+  "developerComment": {
+    "en": "Update log\n\n- The layout has been adjusted slightly.\n- Performance optimizations have been made.\n- The Export Pattern File Only.. feature has been added.\n- In Keysound Definitions, you can now right-click a keysound that has been placed in the chart to locate it.\n- You will now receive version update notices inside the app.",
+    "ko": "업데이트 로그\n\n- 레이아웃이 소폭 변동되었습니다.\n- 성능 최적화를 진행하였습니다.\n- 패턴 파일만 내보내기.. 기능이 추가되었습니다.\n- Keysound Definitions 란에서 배치된 적 있는 키음을 우클릭하여 키음의 위치를 찾을 수 있게 되었습니다.\n- 이제 버전 업데이트 안내를 앱 안에서 받으시게 됩니다.",
+    "ja": "アップデートログ\n\n- レイアウトを一部調整しました。\n- パフォーマンス最適化を行いました。\n- パターンファイルのみ書き出し.. 機能を追加しました。\n- Keysound Definitionsで、配置済みのキー音を右クリックすると、その位置を探せるようになりました。\n- 今後はアプリ内でバージョンアップデートのお知らせを受け取れます。",
+    "zh-Hans": "更新日志\n\n- 对布局进行了小幅调整。\n- 进行了性能优化。\n- 新增了“仅导出谱面文件..”功能。\n- 现在可以在 Keysound Definitions 中右键点击已放置过的键音，查找该键音的位置。\n- 今后您将可以在应用内收到版本更新通知。",
+    "zh-Hant": "更新日誌\n\n- 對版面配置進行了小幅調整。\n- 進行了效能最佳化。\n- 新增了「僅匯出譜面檔案..」功能。\n- 現在可以在 Keysound Definitions 中右鍵點擊已放置過的鍵音，尋找該鍵音的位置。\n- 今後您將可以在應用程式內收到版本更新通知。"
+  },
+  "developerCommentApproved": true
+}
