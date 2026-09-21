@@ -3,10 +3,13 @@
   "product": "Befriend",
   "channel": "beta",
   "version": "0.1.1",
-  "build": 6,
-  "releasedAt": "2026-09-19T15:11:59.000Z",
+  "build": 9,
+  "releasedAt": "2026-09-21T13:49:26.000Z",
   "platforms": [
     { "os": "darwin", "arch": "arm64" },
-    { "os": "win32", "arch": "x64" }
+    { "os": "darwin", "arch": "x64" },
+    { "os": "win32", "arch": "x64" },
+    { "os": "linux", "arch": "x64" }
   ]
 }
+
