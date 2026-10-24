@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "product": "Befriend",
+  "version": "0.1.1",
+  "channel": "beta",
+  "build": 10,
+  "releasedAt": "2026-10-23T20:59:17.000Z",
+  "headline": {
+    "en": "The Beta 10 update brings many quality-of-life improvements.",
+    "ko": "베타 10 업데이트로 여러 편의성 개선이 진행되었습니다.",
+    "ja": "Beta 10アップデートで、さまざまな使い勝手を改善しました。",
+    "zh-Hans": "Beta 10 更新带来了多项便利性改进。",
+    "zh-Hant": "Beta 10 更新帶來了多項便利性改進。"
+  },
+  "headlineApproved": true,
+  "developerComment": {
+    "en": "Update list\n- You can now Play Test with a game controller or a MIDI device.\n- New tool: \"Make Keysounds from a DAW Render\". Place complex performances with ease.\n- You can adjust the name and width of each lane.\n- Press B to send the selected notes to free BGM lanes.\n- Hover over a note, or select several notes, then press a number key to place them on that lane in order.\n- \"Optimize Keysound Slots...\" now scans the audio and automatically finds keysounds that sound alike.\n- A new Project metadata editor lets you edit several patterns at once.\n- Press ⌘K (Ctrl+K on Windows and Linux) to search for a feature and run it right away.\n- Many other features have been refined and performance has been optimized.",
+    "ko": "업데이트 목록\n- 이제 게임 컨트롤러와 MIDI 장비로 Play Test를 할 수 있습니다.\n- \"DAW 렌더로 키음 만들기\" 도구가 추가되었습니다. 복잡한 연주를 편하게 배치하세요.\n- 레인마다 이름과 폭을 조절할 수 있습니다.\n- 선택한 노트를 B 키로 빈 BGM 레인에 보낼 수 있습니다.\n- 노트 위에 마우스를 올리거나 다중 선택 후 숫자키를 눌러 레인에 순서대로 배치할 수 있습니다.\n- 이제 대표 키음으로 통합... 기능이 오디오를 스캔하여 소리가 비슷한 키음을 자동으로 찾아줍니다.\n- 메타데이터 일괄 편집기가 생겼습니다.\n- ⌘K(Windows와 Linux는 Ctrl+K)로 기능을 검색해 바로 실행할 수 있습니다.\n- 그 밖에도 많은 기능을 다듬고 성능을 최적화 하였습니다.",
+    "ja": "アップデート一覧\n- ゲームコントローラーやMIDI機器でPlay Testができるようになりました。\n- 「DAWレンダーからキー音を作成」ツールを追加しました。複雑な演奏も手軽に配置できます。\n- レーンごとに名前と幅を調整できます。\n- 選択したノートをBキーで空いているBGMレーンに送れます。\n- ノートにマウスを重ねるか、複数選択してから数字キーを押すと、レーンに順番に配置できます。\n- 「キー音スロットを最適化...」機能が音声をスキャンして、音の似たキー音を自動で見つけます。\n- メタデータ一括編集を追加しました。\n- ⌘K（Windows・LinuxはCtrl+K）で機能を検索して、すぐに実行できます。\n- そのほかにも多くの機能を改善し、パフォーマンスを最適化しました。",
+    "zh-Hans": "更新列表\n- 现在可以用游戏控制器和 MIDI 设备进行 Play Test。\n- 新增“用 DAW 渲染制作键音”工具，轻松放置复杂的演奏。\n- 可以调整每条轨道的名称和宽度。\n- 按 B 键可以把选中的音符移到空闲的 BGM 轨道。\n- 把鼠标移到音符上，或多选音符后按数字键，即可按顺序放到对应轨道。\n- “优化键音槽位…”功能现在会扫描音频，自动找出声音相似的键音。\n- 新增元数据批量编辑。\n- 按 ⌘K（Windows 和 Linux 为 Ctrl+K）即可搜索功能并立即执行。\n- 此外还改进了许多功能，并优化了性能。",
+    "zh-Hant": "更新列表\n- 現在可以用遊戲控制器和 MIDI 裝置進行 Play Test。\n- 新增「用 DAW 渲染製作鍵音」工具，輕鬆放置複雜的演奏。\n- 可以調整每條軌道的名稱和寬度。\n- 按 B 鍵可以把選取的音符移到空閒的 BGM 軌道。\n- 把滑鼠移到音符上，或多選音符後按數字鍵，即可依序放到對應軌道。\n- 「最佳化鍵音槽位…」功能現在會掃描音訊，自動找出聲音相似的鍵音。\n- 新增中繼資料批次編輯。\n- 按 ⌘K（Windows 和 Linux 為 Ctrl+K）即可搜尋功能並立即執行。\n- 此外還改進了許多功能，並最佳化了效能。"
+  },
+  "developerCommentApproved": true
+}
